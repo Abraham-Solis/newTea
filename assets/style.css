@@ -14,3 +14,14 @@
   width: auto;
 
 }
+.benefitsText{
+  font-family: "Dosis";
+  font-size: 5px;
+
+}
+.row{
+  padding-top: 50px;
+  row-gap: 20px;
+  justify-content: space-between;
+
+}
